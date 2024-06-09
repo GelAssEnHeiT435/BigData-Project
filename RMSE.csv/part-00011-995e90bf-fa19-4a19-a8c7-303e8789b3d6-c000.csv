@@ -1,0 +1,2 @@
+RandomForestRegressor;GBTRegressor;LinearRegression;DecisionTreeRegressor;IsotonicRegression;FMRegressor;GeneralizedLinearRegression
+2.379645261061958;2.3482925159542054;2.5874596058672874;2.4254381741791713;3.996671378313417;5.474825172045019;2.3844774020516617
